@@ -79,6 +79,7 @@ public class SmartWatch extends SmartDevice{
         this.waterproof = waterproof;
     }
 
+
     //toString()
 
 

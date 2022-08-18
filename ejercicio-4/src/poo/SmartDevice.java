@@ -49,7 +49,6 @@ public class SmartDevice {
 
     //toString()
 
-
     @Override
     public String toString() {
         return "SmartDevice{" +
